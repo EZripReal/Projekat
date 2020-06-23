@@ -1,0 +1,4 @@
+class Pitanja:
+    def __init__(self,glasi,odgovori):
+        self.glasi=glasi
+        self.odgovori=odgovori
